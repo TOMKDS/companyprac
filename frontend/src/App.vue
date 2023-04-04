@@ -19,7 +19,7 @@
                         >
                             <div style="line-height:100%;">≡</div>
                         </v-app-bar-nav-icon>
-                        untitled
+                        foodorder
                     </span>
                 </v-toolbar-title>
                 <span v-if="urlPath!=null" 
