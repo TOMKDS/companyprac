@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/8fd61270-c481-11ed-ad36-1bfd28bd1d42/eventstorming-FoodDelivery
+www.msaez.io/#/storming/food-dsex-0404
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
